@@ -60,7 +60,7 @@ export default {
 </script>
 
 <style lang="scss">
-.split-ctrl{
+.split-ctrl{ 
     display: flex;
     align-items: center;
     justify-content: center;

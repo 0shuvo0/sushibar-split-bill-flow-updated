@@ -7,24 +7,6 @@ import menuItemImg6 from '@/assets/test/menu-item/6.png'
 import menuItemImg7 from '@/assets/test/menu-item/7.png'
 
 const items = [
-  {
-    "title": "S1 Tori Gyoza Starter",
-    "description": "Pan-fried chicken dumplings.",
-    "img": menuItemImg1,
-    "tags": ["vegetarian", "hot", "organic"],
-    "price": 4.30,
-    "optionGroups": [
-        {
-          title: 'Choose a size',
-          required: true,
-          options: [
-            { title: 'Small', price: 0 },
-            { title: 'Medium', price: 3.0 },
-            { title: 'Large', price: 4.50 }
-          ]
-        }
-    ]
-},
 {
     "title": "S2 Tori Gyoza Starter",
     "description": "Pan-fried chicken dumplings.",

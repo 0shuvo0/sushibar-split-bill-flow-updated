@@ -13,6 +13,7 @@
                  placeholder=""
                  @focus="showNumpad = true"
                  v-model="amount"
+                 readonly
                 >
                 <i class="icon bi bi-currency-pound"></i>
             </div>
